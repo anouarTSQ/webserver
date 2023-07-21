@@ -1,0 +1,31 @@
+{
+	"editors": [
+		{
+			"type": "method",
+			"id": 2147483633,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "webUserHandler"
+			}
+		},
+		{
+			"type": "method",
+			"id": 2147483636,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "webRouting"
+			}
+		},
+		{
+			"type": "method",
+			"id": 2147483638,
+			"codeDescriptor": {
+				"type": 5,
+				"databaseMethod": 6
+			}
+		},
+		{
+			"type": "structure"
+		}
+	]
+}

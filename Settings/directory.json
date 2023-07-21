@@ -1,0 +1,41 @@
+{
+	"users": {
+		"designer": {
+			"alias": "Designer"
+		},
+		"administrator": {
+			"alias": "Administrator"
+		},
+		"Anouar": {},
+		"Hassan": {}
+	},
+	"groups": {
+		"Admin": {
+			"users": [
+				"Administrator",
+				"Anouar"
+			]
+		}
+	},
+	"sqlSchemaGranters": {
+		"DEFAULT_SCHEMA": {
+			"readOnlyAccessGroup": "*",
+			"readWriteAccessGroup": "*",
+			"allAccessGroup": ""
+		}
+	},
+	"remoteGranters": {
+		"web": "*",
+		"soap": "*",
+		"write": "*",
+		"view": "*"
+	},
+	"settings": {
+		"localGenericWebUser": "Designer",
+		"designAccessGroup": "*",
+		"localMobileAccessGroupRW": "*",
+		"remoteMobileAccessGroupRW": "*",
+		"remoteGenericWebUser": "Designer",
+		"remoteDefaultUser": ""
+	}
+}

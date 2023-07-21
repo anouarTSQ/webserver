@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><preferences stamp="4">
+	<com.4d>
+		<web>
+			<standalone_server>
+				<rest launch_at_startup="true"/>
+				<configuration listening_address="192.168.220.13" port_number="8090" publish_at_startup="true"/>
+			</standalone_server>
+		</web>
+		<server>
+			<network>
+				<options publication_name="webServer"/>
+			</network>
+		</server>
+	</com.4d>
+</preferences>

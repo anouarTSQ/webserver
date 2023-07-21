@@ -1,0 +1,37 @@
+[
+	{
+		"line": 4,
+		"method": {
+			"type": 1,
+			"methodName": "Method4"
+		}
+	},
+	{
+		"line": 6,
+		"method": {
+			"type": 1,
+			"methodName": "Method4"
+		}
+	},
+	{
+		"line": 16,
+		"method": {
+			"type": 1,
+			"methodName": "Method4"
+		}
+	},
+	{
+		"line": 19,
+		"method": {
+			"type": 1,
+			"methodName": "Method4"
+		}
+	},
+	{
+		"line": 1,
+		"method": {
+			"type": 1,
+			"methodName": "AddPost"
+		}
+	}
+]

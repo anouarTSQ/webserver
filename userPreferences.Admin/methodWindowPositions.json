@@ -1,0 +1,50 @@
+{
+	"Sources/DatabaseMethods/onRESTAuthentication.4dm": {
+		"left": -1885,
+		"top": 99,
+		"width": 1920,
+		"height": 939
+	},
+	"Sources/Methods/_fillData.4dm": {
+		"left": -1326,
+		"top": 133,
+		"width": 1279,
+		"height": 703
+	},
+	"Sources/Methods/Method4.4dm": {
+		"left": 526,
+		"top": 373,
+		"width": 1279,
+		"height": 703
+	},
+	"Sources/Methods/AddPost.4dm": {
+		"left": 694,
+		"top": 201,
+		"width": 1110,
+		"height": 739
+	},
+	"Sources/DatabaseMethods/onWebConnection.4dm": {
+		"left": 129,
+		"top": 211,
+		"width": 1110,
+		"height": 739
+	},
+	"Sources/Methods/webRouting.4dm": {
+		"left": 816,
+		"top": 479,
+		"width": 1110,
+		"height": 739
+	},
+	"Sources/Methods/getHttpMethod.4dm": {
+		"left": 366,
+		"top": 171,
+		"width": 1110,
+		"height": 739
+	},
+	"Sources/Methods/webUserHandler.4dm": {
+		"left": 761,
+		"top": 288,
+		"width": 1110,
+		"height": 739
+	}
+}

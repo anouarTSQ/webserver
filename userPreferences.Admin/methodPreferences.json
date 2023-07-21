@@ -1,0 +1,77 @@
+{
+	"Sources/DatabaseMethods/onRESTAuthentication.4dm": {
+		"startSelection": 29,
+		"endSelection": 29,
+		"firstSelectedLine": 6,
+		"lastSelectedLine": 6,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-06-08T14:27:20.910Z"
+	},
+	"Sources/Methods/_fillData.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-06-07T16:09:02.000Z"
+	},
+	"Sources/Methods/Method4.4dm": {
+		"startSelection": 23,
+		"endSelection": 23,
+		"firstSelectedLine": 7,
+		"lastSelectedLine": 7,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-07-20T14:44:19.340Z"
+	},
+	"Sources/Methods/AddPost.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 36,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-07-20T15:08:36.671Z"
+	},
+	"Sources/DatabaseMethods/onWebConnection.4dm": {
+		"startSelection": 0,
+		"endSelection": 10,
+		"firstSelectedLine": 9,
+		"lastSelectedLine": 9,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-07-21T16:17:33.230Z"
+	},
+	"Sources/Methods/webRouting.4dm": {
+		"startSelection": 0,
+		"endSelection": 14,
+		"firstSelectedLine": 11,
+		"lastSelectedLine": 11,
+		"folding": [
+			13,
+			15
+		],
+		"bookmarks": [],
+		"stamp": "2023-07-21T16:18:17.419Z"
+	},
+	"Sources/Methods/getHttpMethod.4dm": {
+		"startSelection": 35,
+		"endSelection": 35,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-07-21T16:02:48.850Z"
+	},
+	"Sources/Methods/webUserHandler.4dm": {
+		"startSelection": 7,
+		"endSelection": 7,
+		"firstSelectedLine": 12,
+		"lastSelectedLine": 12,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-07-21T16:27:59.703Z"
+	}
+}
